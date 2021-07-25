@@ -1,5 +1,5 @@
 # Code for TGRS paper "Full-Level Domain Adaptation for Building Extraction in Very-High-Resolution Optical Remote-Sensing Images"
-This is a reporitory for releasing a novel DA method for high-resolution remote sensing image!
+This is a reporitory for releasing a PyTorch implementation of our work [Full-Level Domain Adaptation for Building Extraction in Very-High-Resolution Optical Remote-Sensing Images](https://ieeexplore.ieee.org/document/9481881)
 ## paper
 Full-Level Domain Adaptation for Building Extraction in Very-High-Resolution Optical Remote-Sensing Images [https://ieeexplore.ieee.org/document/9481881]
 ## Introduction
