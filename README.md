@@ -16,8 +16,15 @@ Convolutional neural networks (CNNs) have achieved tremendous success in compute
 - Python 3.8
 - Pytorch >=1.0.0
 
-
-
+## Usage
+Train
+```
+python main_train_BR_DA.py configs/config.json
+```
+Test
+```
+python main_test_BR_DA.py configs/config.json
+```
 
 ## Citation
 Please cite our paper if you find it is useful for your research.
