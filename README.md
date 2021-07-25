@@ -17,11 +17,11 @@ Convolutional neural networks (CNNs) have achieved tremendous success in compute
 - Pytorch >=1.0.0
 
 ## Usage
-Train
+- Train
 ```
 python main_train_BR_DA.py configs/config.json
 ```
-Test
+- Test
 ```
 python main_test_BR_DA.py configs/config.json
 ```
